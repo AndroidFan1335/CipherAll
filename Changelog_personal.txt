@@ -1,0 +1,8 @@
+ChangeLog + Updates
+
+Having trouble with implementing the PyDes library into my methods and functions.  SInce the library translates strings into bytes, it makes it difficult to create a decrypt method that can 
+utilize the library.  This makes total sense from a security standpoint, but nonetheless makes it difficult to code.  currently have placeholder DES and SED methods so work on the GUI can 
+be completed.  
+
+
+
